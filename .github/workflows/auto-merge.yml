@@ -1,12 +1,13 @@
-name: LeetHub Auto Issue, PR, and Merge
+name: LeetHub Batch PR Splitter
 on:
   push:
     branches:
       - leetcode-sync
 
+# cancel-in-progress ensures that only the final commit in LeetHub's rapid burst runs this script
 concurrency: 
   group: leethub-automation
-  cancel-in-progress: false
+  cancel-in-progress: true 
 
 permissions:
   contents: write
@@ -14,40 +15,86 @@ permissions:
   issues: write
 
 jobs:
-  automate:
+  split-and-merge:
     runs-on: ubuntu-latest
     steps:
+      - name: Wait for LeetHub burst to finish
+        run: sleep 10
+        
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      
-      - name: Process Issue and PR
+          
+      - name: Process Commits into Two Separate PRs
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.MY_GITHUB_PAT }}
         run: |
-          # 1. Capture the exact commit message from LeetHub
-          PROBLEM_NAME=$(git log -1 --pretty=%s)
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          # 2. Always open the issue first to maintain the tracking history
-          ISSUE_URL=$(gh issue create --title "Solve: $PROBLEM_NAME" --body "Automated tracking for LeetCode submission.")
-          ISSUE_NUM=$(echo $ISSUE_URL | awk -F'/' '{print $NF}')
+          # 1. Get all new commits pushed by LeetHub (oldest to newest)
+          COMMITS=$(git log origin/main..origin/leetcode-sync --pretty="%H" --reverse)
+          if [ -z "$COMMITS" ]; then exit 0; fi
           
-          # 3. Route based on the commit type
-          if [[ "$PROBLEM_NAME" == "Updated stats" || "$PROBLEM_NAME" == "Update README - Topic Tags" || "$PROBLEM_NAME" == "Create README - LeetHub" ]]; then
-            # FLOW A: Maintenance Commits
-            # Create a sync PR, merge it, and have the bot immediately close the issue
-            gh pr create --base main --head leetcode-sync --title "Sync: $PROBLEM_NAME" --body "Automated maintenance sync."
-            gh pr merge --merge
-            gh issue close $ISSUE_NUM --comment "Automatically closing maintenance logs."
-          else
-            # FLOW B: Main C++ Code Commits
-            # Create the Pull Request explicitly linked to the issue number
-            gh pr create --base main --head leetcode-sync --title "Solution: $PROBLEM_NAME" --body "Resolves #$ISSUE_NUM"
+          HAS_MAINT=0
+          HAS_CODE=0
+          CODE_MSG="LeetCode Solution"
+          
+          # ==========================================
+          # BATCH 1: README & STATS (Maintenance)
+          # ==========================================
+          git checkout -b sync-maint origin/main
+          for COMMIT in $COMMITS; do
+            MSG=$(git log -1 --pretty="%s" $COMMIT)
+            if [[ "$MSG" == *"Updated stats"* || "$MSG" == *"Update README"* || "$MSG" == *"Create README"* ]]; then
+              git cherry-pick -X theirs $COMMIT || git cherry-pick --skip || true
+              HAS_MAINT=1
+            fi
+          done
+          
+          if [ $HAS_MAINT -eq 1 ]; then
+            git push -f origin sync-maint
+            # Create Issue 1
+            ISSUE_URL=$(gh issue create --title "Sync: LeetHub README and Stats" --body "Automated tracking for topic tags and repository stats.")
+            ISSUE_NUM=$(echo $ISSUE_URL | awk -F'/' '{print $NF}')
             
-            # Merge the pull request to pull the C++ code into main
-            gh pr merge --merge
-            
-            # Explicitly close the issue right after the merge completes
-            # (Required because GitHub native auto-close only triggers on the default branch)
-            gh issue close $ISSUE_NUM --comment "Issue closed via automated Pull Request merge."
+            # Create PR 1 & Merge
+            gh pr create --base main --head sync-maint --title "Sync: README and Stats Updates" --body "Resolves #$ISSUE_NUM"
+            gh pr merge sync-maint --merge
+            gh issue close $ISSUE_NUM --comment "Merged maintenance updates."
           fi
+          
+          # ==========================================
+          # BATCH 2: C++ CODE (Time / Space metrics)
+          # ==========================================
+          git fetch origin main
+          git checkout -b sync-code origin/main
+          
+          for COMMIT in $COMMITS; do
+            MSG=$(git log -1 --pretty="%s" $COMMIT)
+            if [[ "$MSG" != *"Updated stats"* && "$MSG" != *"Update README"* && "$MSG" != *"Create README"* ]]; then
+              git cherry-pick -X theirs $COMMIT || git cherry-pick --skip || true
+              HAS_CODE=1
+              CODE_MSG=$MSG # Captures the exact string: "Time: 0 ms (100%), Space: X MB..."
+            fi
+          done
+          
+          if [ $HAS_CODE -eq 1 ]; then
+            git push -f origin sync-code
+            # Create Issue 2
+            ISSUE_URL=$(gh issue create --title "Solve: $CODE_MSG" --body "Automated tracking for actual LeetCode code submission.")
+            ISSUE_NUM=$(echo $ISSUE_URL | awk -F'/' '{print $NF}')
+            
+            # Create PR 2 & Merge
+            gh pr create --base main --head sync-code --title "Solution: $CODE_MSG" --body "Resolves #$ISSUE_NUM"
+            gh pr merge sync-code --merge
+            gh issue close $ISSUE_NUM --comment "Merged LeetCode solution."
+          fi
+          
+          # ==========================================
+          # CLEANUP: Reset staging branch for the next problem
+          # ==========================================
+          git fetch origin main
+          git checkout leetcode-sync
+          git reset --hard origin/main
+          git push -f origin leetcode-sync
