@@ -4,7 +4,6 @@ on:
     branches:
       - leetcode-sync
 
-# Forces workflows to queue up instead of crashing into each other
 concurrency: 
   group: leethub-automation
   cancel-in-progress: false
@@ -19,23 +18,36 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
-      - name: Create Issue, PR, and Merge
+      - name: Process Issue and PR
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # 1. Get the latest commit message
+          # 1. Capture the exact commit message from LeetHub
           PROBLEM_NAME=$(git log -1 --pretty=%s)
           
-          # 2. Create an Issue and capture its URL
-          ISSUE_URL=$(gh issue create --title "Solve: $PROBLEM_NAME" --body "Automated issue for LeetCode problem.")
+          # 2. Always open the issue first to maintain the tracking history
+          ISSUE_URL=$(gh issue create --title "Solve: $PROBLEM_NAME" --body "Automated tracking for LeetCode submission.")
           ISSUE_NUM=$(echo $ISSUE_URL | awk -F'/' '{print $NF}')
           
-          # 3. Create a Pull Request that closes the issue
-          gh pr create --base main --head leetcode-sync --title "Solution: $PROBLEM_NAME" --body "Resolves #$ISSUE_NUM"
-          
-          # 4. Merge the Pull Request
-          gh pr merge --merge
-          
-          # 5. Force close the issue manually
-          gh issue close $ISSUE_NUM
+          # 3. Route based on the commit type
+          if [[ "$PROBLEM_NAME" == "Updated stats" || "$PROBLEM_NAME" == "Update README - Topic Tags" || "$PROBLEM_NAME" == "Create README - LeetHub" ]]; then
+            # FLOW A: Maintenance Commits
+            # Create a sync PR, merge it, and have the bot immediately close the issue
+            gh pr create --base main --head leetcode-sync --title "Sync: $PROBLEM_NAME" --body "Automated maintenance sync."
+            gh pr merge --merge
+            gh issue close $ISSUE_NUM --comment "Automatically closing maintenance logs."
+          else
+            # FLOW B: Main C++ Code Commits
+            # Create the Pull Request explicitly linked to the issue number
+            gh pr create --base main --head leetcode-sync --title "Solution: $PROBLEM_NAME" --body "Resolves #$ISSUE_NUM"
+            
+            # Merge the pull request to pull the C++ code into main
+            gh pr merge --merge
+            
+            # Explicitly close the issue right after the merge completes
+            # (Required because GitHub native auto-close only triggers on the default branch)
+            gh issue close $ISSUE_NUM --comment "Issue closed via automated Pull Request merge."
+          fi
