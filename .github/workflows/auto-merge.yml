@@ -1,0 +1,33 @@
+name: LeetHub Auto Issue, PR, and Merge
+on:
+  push:
+    branches:
+      - leetcode-sync
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  automate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Create Issue, PR, and Merge
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 1. Get the latest commit message (LeetHub uses the problem name)
+          PROBLEM_NAME=$(git log -1 --pretty=%s)
+          
+          # 2. Create an Issue and capture its URL
+          ISSUE_URL=$(gh issue create --title "Solve: $PROBLEM_NAME" --body "Automated issue for LeetCode problem.")
+          ISSUE_NUM=$(echo $ISSUE_URL | awk -F'/' '{print $NF}')
+          
+          # 3. Create a Pull Request that closes the issue
+          gh pr create --base main --head leetcode-sync --title "Solution: $PROBLEM_NAME" --body "Resolves #$ISSUE_NUM"
+          
+          # 4. Merge the Pull Request
+          gh pr merge --merge
