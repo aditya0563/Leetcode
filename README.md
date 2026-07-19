@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/aditya0563/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aditya0563/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -69,6 +70,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
