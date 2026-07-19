@@ -4,6 +4,11 @@ on:
     branches:
       - leetcode-sync
 
+# Forces workflows to queue up instead of crashing into each other
+concurrency: 
+  group: leethub-automation
+  cancel-in-progress: false
+
 permissions:
   contents: write
   pull-requests: write
@@ -19,7 +24,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # 1. Get the latest commit message (LeetHub uses the problem name)
+          # 1. Get the latest commit message
           PROBLEM_NAME=$(git log -1 --pretty=%s)
           
           # 2. Create an Issue and capture its URL
@@ -31,3 +36,6 @@ jobs:
           
           # 4. Merge the Pull Request
           gh pr merge --merge
+          
+          # 5. Force close the issue manually
+          gh issue close $ISSUE_NUM
