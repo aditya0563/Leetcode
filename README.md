@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/aditya0563/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aditya0563/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -67,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aditya0563/Leetcode/tree/master/0155-min-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
