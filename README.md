@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/aditya0563/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aditya0563/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya0563/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/aditya0563/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/aditya0563/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -56,6 +57,7 @@
 | [0015-3sum](https://github.com/aditya0563/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/aditya0563/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya0563/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya0563/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
