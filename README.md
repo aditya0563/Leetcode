@@ -72,6 +72,7 @@
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/aditya0563/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aditya0563/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/aditya0563/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya0563/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
@@ -88,6 +89,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/aditya0563/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aditya0563/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/aditya0563/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -116,10 +118,12 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aditya0563/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/aditya0563/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/aditya0563/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aditya0563/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/aditya0563/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
