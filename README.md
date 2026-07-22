@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya0563/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/aditya0563/Leetcode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya0563/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya0563/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya0563/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -181,4 +183,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
