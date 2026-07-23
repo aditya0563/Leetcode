@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/aditya0563/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya0563/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/aditya0563/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/aditya0563/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya0563/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/aditya0563/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
 ## Linked List
 |  |
