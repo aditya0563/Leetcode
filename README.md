@@ -13,6 +13,7 @@
 | [0046-permutations](https://github.com/aditya0563/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/aditya0563/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya0563/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya0563/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya0563/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -37,6 +38,7 @@
 | [0020-valid-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/aditya0563/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aditya0563/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aditya0563/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -130,6 +132,7 @@
 | [0022-generate-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/aditya0563/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya0563/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya0563/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya0563/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -189,4 +193,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
