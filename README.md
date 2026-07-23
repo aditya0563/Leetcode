@@ -15,6 +15,7 @@
 | [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya0563/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/aditya0563/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya0563/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya0563/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya0563/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -193,8 +194,5 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
-## Matrix
-|  |
-| ------- |
-| [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
+| [0136-single-number](https://github.com/aditya0563/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
