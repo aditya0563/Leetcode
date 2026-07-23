@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya0563/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/aditya0563/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/aditya0563/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aditya0563/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
@@ -188,6 +189,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aditya0563/Leetcode/tree/master/0048-rotate-image) |
 | [0371-sum-of-two-integers](https://github.com/aditya0563/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
@@ -202,4 +204,8 @@
 | [0190-reverse-bits](https://github.com/aditya0563/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aditya0563/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/aditya0563/Leetcode/tree/master/0371-sum-of-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/aditya0563/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
