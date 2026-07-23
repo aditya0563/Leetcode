@@ -13,6 +13,7 @@
 | [0046-permutations](https://github.com/aditya0563/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aditya0563/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aditya0563/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/aditya0563/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditya0563/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
@@ -215,5 +216,10 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aditya0563/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aditya0563/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditya0563/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aditya0563/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
