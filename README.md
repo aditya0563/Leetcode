@@ -150,6 +150,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aditya0563/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/aditya0563/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/aditya0563/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aditya0563/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/aditya0563/Leetcode/tree/master/0050-powx-n) |
 | [0371-sum-of-two-integers](https://github.com/aditya0563/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
