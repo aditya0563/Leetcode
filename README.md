@@ -103,6 +103,7 @@
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya0563/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya0563/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/aditya0563/Leetcode/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -197,4 +198,5 @@
 | [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/aditya0563/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/aditya0563/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/aditya0563/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
