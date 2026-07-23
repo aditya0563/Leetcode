@@ -14,6 +14,7 @@
 | [0048-rotate-image](https://github.com/aditya0563/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aditya0563/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aditya0563/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/aditya0563/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/aditya0563/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
@@ -103,11 +104,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya0563/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/aditya0563/Leetcode/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/aditya0563/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya0563/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya0563/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/aditya0563/Leetcode/tree/master/0338-counting-bits) |
