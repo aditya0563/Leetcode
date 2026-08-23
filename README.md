@@ -14,6 +14,7 @@
 | [0046-permutations](https://github.com/aditya0563/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aditya0563/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aditya0563/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/aditya0563/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/aditya0563/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aditya0563/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/aditya0563/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -154,6 +155,7 @@
 | [0022-generate-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aditya0563/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aditya0563/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/aditya0563/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aditya0563/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -242,4 +244,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/aditya0563/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
