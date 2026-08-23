@@ -1,23 +1,18 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
-    vector<int> temp;
-
-    void solve(vector<int>& nums,int idx){
-        if(idx==nums.size()){
-            ans.push_back(temp);
-            return;
+    void backtrack(int idx, vector<int>& nums, vector<int>& curr, vector<vector<int>>& res) {
+        res.push_back(curr);
+        for(int i = idx; i < nums.size(); ++i) {
+            curr.push_back(nums[i]);
+            backtrack(i + 1, nums, curr, res);
+            curr.pop_back();
         }
-
-        temp.push_back(nums[idx]);
-
-        solve(nums,idx+1);
-        temp.pop_back();
-        solve(nums,idx+1);
     }
-
+    
     vector<vector<int>> subsets(vector<int>& nums) {
-        solve(nums,0);
-        return ans;
+        vector<vector<int>> res;
+        vector<int> curr;
+        backtrack(0, nums, curr, res);
+        return res;
     }
 };
