@@ -232,4 +232,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya0563/Leetcode/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya0563/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
