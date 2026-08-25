@@ -136,6 +136,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/aditya0563/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aditya0563/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/aditya0563/Leetcode/tree/master/0739-daily-temperatures) |
@@ -175,6 +176,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aditya0563/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/aditya0563/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/aditya0563/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aditya0563/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -198,6 +200,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya0563/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya0563/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya0563/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya0563/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya0563/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
@@ -215,6 +218,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya0563/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya0563/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya0563/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya0563/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya0563/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
@@ -224,6 +228,7 @@
 | [0098-validate-binary-search-tree](https://github.com/aditya0563/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/aditya0563/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya0563/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya0563/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya0563/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
