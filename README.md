@@ -132,6 +132,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/aditya0563/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/aditya0563/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya0563/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya0563/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aditya0563/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -269,6 +270,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/aditya0563/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aditya0563/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/aditya0563/Leetcode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/aditya0563/Leetcode/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/aditya0563/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -323,4 +325,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya0563/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aditya0563/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
