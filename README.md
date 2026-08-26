@@ -19,6 +19,7 @@
 | [0051-n-queens](https://github.com/aditya0563/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/aditya0563/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aditya0563/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/aditya0563/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aditya0563/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aditya0563/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aditya0563/Leetcode/tree/master/0078-subsets) |
@@ -133,6 +134,7 @@
 | [0042-trapping-rain-water](https://github.com/aditya0563/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/aditya0563/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aditya0563/Leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/aditya0563/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya0563/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya0563/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aditya0563/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -291,6 +293,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/aditya0563/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aditya0563/Leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/aditya0563/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aditya0563/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aditya0563/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
