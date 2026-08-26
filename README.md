@@ -75,6 +75,7 @@
 | [0131-palindrome-partitioning](https://github.com/aditya0563/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/aditya0563/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/aditya0563/Leetcode/tree/master/0242-valid-anagram) |
+| [1143-longest-common-subsequence](https://github.com/aditya0563/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [0322-coin-change](https://github.com/aditya0563/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/aditya0563/Leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/aditya0563/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1143-longest-common-subsequence](https://github.com/aditya0563/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -384,4 +386,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aditya0563/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/aditya0563/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
