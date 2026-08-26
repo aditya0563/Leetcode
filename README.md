@@ -29,6 +29,7 @@
 | [0118-pascals-triangle](https://github.com/aditya0563/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya0563/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aditya0563/Leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/aditya0563/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya0563/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya0563/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya0563/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -47,6 +48,7 @@
 | [0049-group-anagrams](https://github.com/aditya0563/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aditya0563/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya0563/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/aditya0563/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/aditya0563/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/aditya0563/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/aditya0563/Leetcode/tree/master/0217-contains-duplicate) |
@@ -66,6 +68,7 @@
 | [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aditya0563/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/aditya0563/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/aditya0563/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/aditya0563/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -143,6 +146,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya0563/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya0563/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aditya0563/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/aditya0563/Leetcode/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/aditya0563/Leetcode/tree/master/0338-counting-bits) |
 ## Stack
 |  |
@@ -342,4 +346,13 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aditya0563/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/aditya0563/Leetcode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aditya0563/Leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aditya0563/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
