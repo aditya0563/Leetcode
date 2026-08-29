@@ -44,6 +44,7 @@
 | [0704-binary-search](https://github.com/aditya0563/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/aditya0563/Leetcode/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/aditya0563/Leetcode/tree/master/0994-rotting-oranges) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya0563/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya0563/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -252,6 +253,7 @@
 | [0207-course-schedule](https://github.com/aditya0563/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/aditya0563/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/aditya0563/Leetcode/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/aditya0563/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -327,6 +329,7 @@
 | [0074-search-a-2d-matrix](https://github.com/aditya0563/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/aditya0563/Leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/aditya0563/Leetcode/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
