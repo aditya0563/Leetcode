@@ -43,6 +43,7 @@
 | [0322-coin-change](https://github.com/aditya0563/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/aditya0563/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/aditya0563/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya0563/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/aditya0563/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/aditya0563/Leetcode/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -64,6 +65,7 @@
 | [0217-contains-duplicate](https://github.com/aditya0563/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditya0563/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aditya0563/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya0563/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/aditya0563/Leetcode/tree/master/0763-partition-labels) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya0563/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
@@ -425,4 +427,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aditya0563/Leetcode/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aditya0563/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
