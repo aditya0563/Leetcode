@@ -147,6 +147,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya0563/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya0563/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/aditya0563/Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0763-partition-labels](https://github.com/aditya0563/Leetcode/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
@@ -189,6 +190,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/aditya0563/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aditya0563/Leetcode/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/aditya0563/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -240,6 +242,7 @@
 | [0146-lru-cache](https://github.com/aditya0563/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya0563/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -250,6 +253,7 @@
 | [0050-powx-n](https://github.com/aditya0563/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/aditya0563/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
