@@ -10,35 +10,38 @@
  */
 class Solution {
 public:
-    ListNode* merge(ListNode* l1,ListNode* l2){
-        ListNode* head=nullptr;
-        ListNode** tail=&head;
-
-        while(l1!=nullptr && l2!=nullptr){
-            if(l1->val<=l2->val){
-                *tail=l1;
-                l1=l1->next;
-            }
-            else{
-                *tail=l2;
-                l2=l2->next;
-            }
-            tail=&((*tail)->next);
+    struct CompareNode {
+        bool operator()(ListNode* const& p1, ListNode* const& p2) {
+            return p1->val > p2->val;
         }
-
-        *tail=(l1!=nullptr)?l1:l2;
-        return head;
-    }
+    };
 
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.empty()) return nullptr;
-        int step=1,n=lists.size();
-
-        while(step<n){
-            for(int i=0;i+step<n;i+=step*2) lists[i]=merge(lists[i],lists[i+step]);
-            step*=2;
+        priority_queue<ListNode*, vector<ListNode*>, CompareNode> pq;
+        
+        for (ListNode* node : lists) {
+            if (node != nullptr) {
+                pq.push(node);
+            }
         }
-
-        return lists[0];
+        
+        ListNode* dummy = new ListNode(0);
+        ListNode* tail = dummy;
+        
+        while (!pq.empty()) {
+            ListNode* curr = pq.top();
+            pq.pop();
+            
+            tail->next = curr;
+            tail = tail->next;
+            
+            if (curr->next != nullptr) {
+                pq.push(curr->next);
+            }
+        }
+        
+        ListNode* head = dummy->next;
+        delete dummy;
+        return head;
     }
 };
