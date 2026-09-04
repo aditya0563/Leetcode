@@ -385,6 +385,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Algorithm X
