@@ -95,6 +95,7 @@
 | [0131-palindrome-partitioning](https://github.com/aditya0563/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/aditya0563/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/aditya0563/Leetcode/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/aditya0563/Leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditya0563/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/aditya0563/Leetcode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/aditya0563/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -203,6 +204,7 @@
 | [0143-reorder-list](https://github.com/aditya0563/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aditya0563/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/aditya0563/Leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/aditya0563/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -268,6 +270,7 @@
 | [0143-reorder-list](https://github.com/aditya0563/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/aditya0563/Leetcode/tree/master/0394-decode-string) |
 ## Merge Sort
 |  |
 | ------- |
