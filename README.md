@@ -41,6 +41,7 @@
 | [0152-maximum-product-subarray](https://github.com/aditya0563/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya0563/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya0563/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/aditya0563/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/aditya0563/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aditya0563/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya0563/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -78,6 +79,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/aditya0563/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aditya0563/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya0563/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/aditya0563/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aditya0563/Leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/aditya0563/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/aditya0563/Leetcode/tree/master/0217-contains-duplicate) |
@@ -116,6 +118,7 @@
 | [0049-group-anagrams](https://github.com/aditya0563/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aditya0563/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aditya0563/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/aditya0563/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya0563/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aditya0563/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditya0563/Leetcode/tree/master/0242-valid-anagram) |
@@ -129,6 +132,7 @@
 | [0053-maximum-subarray](https://github.com/aditya0563/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya0563/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya0563/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/aditya0563/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/aditya0563/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aditya0563/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya0563/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -150,6 +154,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aditya0563/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aditya0563/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -536,4 +541,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditya0563/Leetcode/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aditya0563/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
