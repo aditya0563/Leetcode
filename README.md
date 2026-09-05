@@ -42,6 +42,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya0563/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya0563/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aditya0563/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/aditya0563/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aditya0563/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aditya0563/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya0563/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -178,6 +179,7 @@
 | [0143-reorder-list](https://github.com/aditya0563/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya0563/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya0563/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/aditya0563/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aditya0563/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aditya0563/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aditya0563/Leetcode/tree/master/0283-move-zeroes) |
@@ -379,6 +381,7 @@
 | [0050-powx-n](https://github.com/aditya0563/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aditya0563/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aditya0563/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/aditya0563/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aditya0563/Leetcode/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/aditya0563/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
