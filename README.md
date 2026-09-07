@@ -113,6 +113,7 @@
 | [0394-decode-string](https://github.com/aditya0563/Leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditya0563/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/aditya0563/Leetcode/tree/master/0763-partition-labels) |
+| [0940-distinct-subsequences-ii](https://github.com/aditya0563/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/aditya0563/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -219,6 +220,7 @@
 | [0322-coin-change](https://github.com/aditya0563/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/aditya0563/Leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/aditya0563/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/aditya0563/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/aditya0563/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
