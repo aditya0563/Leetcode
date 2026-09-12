@@ -61,6 +61,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/aditya0563/Leetcode/tree/master/0994-rotting-oranges) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya0563/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditya0563/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya0563/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya0563/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya0563/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -130,6 +131,7 @@
 | [0242-valid-anagram](https://github.com/aditya0563/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aditya0563/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditya0563/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/aditya0563/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya0563/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/aditya0563/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditya0563/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -256,6 +259,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya0563/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aditya0563/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/aditya0563/Leetcode/tree/master/0704-binary-search) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditya0563/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Design
 |  |
 | ------- |
