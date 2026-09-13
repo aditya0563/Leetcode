@@ -1,32 +1,34 @@
 class H2O {
 public:
-    mutex mtx;
-    condition_variable cv;
-    int h_count;
+    counting_semaphore<1> h_sem{1};
+    counting_semaphore<1> o_sem{0};
+    bool second_h = false;
 
     H2O() {
-        h_count = 0;
+
     }
 
     void hydrogen(function<void()> releaseHydrogen) {
-        unique_lock<mutex> lock(mtx);
-        cv.wait(lock, [this]() { return h_count < 2; });
+        h_sem.acquire();
         
         // releaseHydrogen() outputs "H". Do not change or remove this line.
         releaseHydrogen();
-        h_count++;
         
-        cv.notify_all();
+        if (second_h) {
+            second_h = false;
+            o_sem.release();
+        } else {
+            second_h = true;
+            h_sem.release();
+        }
     }
 
     void oxygen(function<void()> releaseOxygen) {
-        unique_lock<mutex> lock(mtx);
-        cv.wait(lock, [this]() { return h_count == 2; });
+        o_sem.acquire();
         
         // releaseOxygen() outputs "O". Do not change or remove this line.
         releaseOxygen();
-        h_count = 0;
         
-        cv.notify_all();
+        h_sem.release();
     }
 };
