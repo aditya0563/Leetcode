@@ -1,58 +1,46 @@
 class ZeroEvenOdd {
 private:
     int n;
-    mutex mtx;
-    condition_variable cv;
-    int state;
-    int i;
+    counting_semaphore<1> zero_sem{1};
+    counting_semaphore<1> odd_sem{0};
+    counting_semaphore<1> even_sem{0};
 
 public:
     ZeroEvenOdd(int n) {
         this->n = n;
-        state = 0;
-        i = 1;
     }
 
-    // printNumber(x) outputs "x", where x is an integer.
     void zero(function<void(int)> printNumber) {
-        for (int k = 0; k < n; ++k) {
-            unique_lock<mutex> lock(mtx);
-            cv.wait(lock, [this]() { return state == 0; });
+        for (int i = 1; i <= n; ++i) {
+            zero_sem.acquire();
             
             printNumber(0);
             
             if (i % 2 == 1) {
-                state = 1;
+                odd_sem.release();
             } else {
-                state = 2;
+                even_sem.release();
             }
-            cv.notify_all();
         }
     }
 
     void even(function<void(int)> printNumber) {
-        for (int k = 2; k <= n; k += 2) {
-            unique_lock<mutex> lock(mtx);
-            cv.wait(lock, [this]() { return state == 2; });
+        for (int i = 2; i <= n; i += 2) {
+            even_sem.acquire();
             
             printNumber(i);
-            i++;
             
-            state = 0;
-            cv.notify_all();
+            zero_sem.release();
         }
     }
 
     void odd(function<void(int)> printNumber) {
-        for (int k = 1; k <= n; k += 2) {
-            unique_lock<mutex> lock(mtx);
-            cv.wait(lock, [this]() { return state == 1; });
+        for (int i = 1; i <= n; i += 2) {
+            odd_sem.acquire();
             
             printNumber(i);
-            i++;
             
-            state = 0;
-            cv.notify_all();
+            zero_sem.release();
         }
     }
 };
