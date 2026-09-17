@@ -63,17 +63,7 @@
 | [0835-image-overlap](https://github.com/aditya0563/Leetcode/tree/master/0835-image-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/aditya0563/Leetcode/tree/master/0994-rotting-oranges) |
-| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya0563/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya0563/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| [1636-sort-array-by-increasing-frequency](https://github.com/aditya0563/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
-| [1748-sum-of-unique-elements](https://github.com/aditya0563/Leetcode/tree/master/1748-sum-of-unique-elements) |
-| [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya0563/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
-| [1800-maximum-ascending-subarray-sum](https://github.com/aditya0563/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
-| [2333-minimum-sum-of-squared-difference](https://github.com/aditya0563/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
-| [2373-largest-local-values-in-a-matrix](https://github.com/aditya0563/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
-| [2778-sum-of-squares-of-special-elements](https://github.com/aditya0563/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditya0563/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aditya0563/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya0563/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditya0563/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/aditya0563/Leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -111,13 +101,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditya0563/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya0563/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/aditya0563/Leetcode/tree/master/0763-partition-labels) |
-| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya0563/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya0563/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aditya0563/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
-| [1636-sort-array-by-increasing-frequency](https://github.com/aditya0563/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
-| [1748-sum-of-unique-elements](https://github.com/aditya0563/Leetcode/tree/master/1748-sum-of-unique-elements) |
-| [2423-remove-letter-to-equalize-frequency](https://github.com/aditya0563/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditya0563/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya0563/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya0563/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -275,6 +259,7 @@
 | [0678-valid-parenthesis-string](https://github.com/aditya0563/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya0563/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/aditya0563/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya0563/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya0563/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya0563/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditya0563/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -316,7 +301,6 @@
 | [0300-longest-increasing-subsequence](https://github.com/aditya0563/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/aditya0563/Leetcode/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya0563/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| [2333-minimum-sum-of-squared-difference](https://github.com/aditya0563/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditya0563/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Design
 |  |
