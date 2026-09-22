@@ -73,6 +73,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya0563/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya0563/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/aditya0563/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/aditya0563/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya0563/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -461,6 +462,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditya0563/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya0563/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/aditya0563/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/aditya0563/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/aditya0563/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aditya0563/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Geometry
@@ -663,51 +665,5 @@
 ## Segment Tree
 |  |
 | ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya0563/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/aditya0563/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
-## String Matching
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya0563/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0459-repeated-substring-pattern](https://github.com/aditya0563/Leetcode/tree/master/0459-repeated-substring-pattern) |
-| [0796-rotate-string](https://github.com/aditya0563/Leetcode/tree/master/0796-rotate-string) |
-| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aditya0563/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
-## Z Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya0563/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0459-repeated-substring-pattern](https://github.com/aditya0563/Leetcode/tree/master/0459-repeated-substring-pattern) |
-## Knuth–Morris–Pratt Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya0563/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0459-repeated-substring-pattern](https://github.com/aditya0563/Leetcode/tree/master/0459-repeated-substring-pattern) |
-## Boyer–Moore String-Search Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya0563/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Newton's Method
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/aditya0563/Leetcode/tree/master/0069-sqrtx) |
-## Counting Sort
-|  |
-| ------- |
-| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya0563/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
-## Brainteaser
-|  |
-| ------- |
-| [1025-divisor-game](https://github.com/aditya0563/Leetcode/tree/master/1025-divisor-game) |
-## Game Theory
-|  |
-| ------- |
-| [1025-divisor-game](https://github.com/aditya0563/Leetcode/tree/master/1025-divisor-game) |
-## Impartial Game
-|  |
-| ------- |
-| [1025-divisor-game](https://github.com/aditya0563/Leetcode/tree/master/1025-divisor-game) |
-## Binary Indexed Tree
-|  |
-| ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya0563/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
