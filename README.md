@@ -67,6 +67,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya0563/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya0563/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/aditya0563/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/aditya0563/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya0563/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -421,6 +422,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditya0563/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya0563/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/aditya0563/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/aditya0563/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/aditya0563/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aditya0563/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Geometry
@@ -607,4 +609,8 @@
 | [1117-building-h2o](https://github.com/aditya0563/Leetcode/tree/master/1117-building-h2o) |
 | [1195-fizz-buzz-multithreaded](https://github.com/aditya0563/Leetcode/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/aditya0563/Leetcode/tree/master/1226-the-dining-philosophers) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/aditya0563/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
