@@ -126,6 +126,7 @@
 | [0763-partition-labels](https://github.com/aditya0563/Leetcode/tree/master/0763-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya0563/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/aditya0563/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditya0563/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aditya0563/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya0563/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya0563/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -472,7 +473,6 @@
 | [0020-valid-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0032-longest-valid-parentheses) |
-| [0678-valid-parenthesis-string](https://github.com/aditya0563/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditya0563/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Algorithm X
 |  |
