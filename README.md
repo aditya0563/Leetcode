@@ -666,4 +666,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya0563/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aditya0563/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
