@@ -452,7 +452,6 @@
 | [0048-rotate-image](https://github.com/aditya0563/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aditya0563/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aditya0563/Leetcode/tree/master/0062-unique-paths) |
-| [0067-add-binary](https://github.com/aditya0563/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aditya0563/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aditya0563/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aditya0563/Leetcode/tree/master/0189-rotate-array) |
@@ -683,4 +682,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya0563/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aditya0563/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
