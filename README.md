@@ -132,6 +132,7 @@
 | [0242-valid-anagram](https://github.com/aditya0563/Leetcode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/aditya0563/Leetcode/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/aditya0563/Leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditya0563/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/aditya0563/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/aditya0563/Leetcode/tree/master/0763-partition-labels) |
@@ -451,6 +452,7 @@
 | [0189-rotate-array](https://github.com/aditya0563/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aditya0563/Leetcode/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/aditya0563/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/aditya0563/Leetcode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/aditya0563/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditya0563/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -491,6 +493,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya0563/Leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/aditya0563/Leetcode/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya0563/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya0563/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
