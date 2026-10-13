@@ -139,6 +139,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditya0563/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/aditya0563/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/aditya0563/Leetcode/tree/master/0763-partition-labels) |
+| [0796-rotate-string](https://github.com/aditya0563/Leetcode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya0563/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/aditya0563/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditya0563/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -671,6 +672,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya0563/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/aditya0563/Leetcode/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
