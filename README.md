@@ -123,6 +123,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aditya0563/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aditya0563/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aditya0563/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/aditya0563/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/aditya0563/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/aditya0563/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/aditya0563/Leetcode/tree/master/0079-word-search) |
@@ -452,6 +453,7 @@
 | [0048-rotate-image](https://github.com/aditya0563/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aditya0563/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aditya0563/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/aditya0563/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aditya0563/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aditya0563/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aditya0563/Leetcode/tree/master/0189-rotate-array) |
@@ -502,6 +504,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya0563/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/aditya0563/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/aditya0563/Leetcode/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya0563/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya0563/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
