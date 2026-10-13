@@ -461,6 +461,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditya0563/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya0563/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/aditya0563/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3524-find-x-value-of-array-i](https://github.com/aditya0563/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/aditya0563/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/aditya0563/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -471,6 +472,7 @@
 | [0836-rectangle-overlap](https://github.com/aditya0563/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditya0563/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/aditya0563/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Bit Manipulation
 |  |
 | ------- |
