@@ -63,6 +63,7 @@
 | [0835-image-overlap](https://github.com/aditya0563/Leetcode/tree/master/0835-image-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/aditya0563/Leetcode/tree/master/0994-rotting-oranges) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya0563/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya0563/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya0563/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya0563/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -105,6 +106,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/aditya0563/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya0563/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/aditya0563/Leetcode/tree/master/0763-partition-labels) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya0563/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya0563/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aditya0563/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/aditya0563/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -163,6 +165,7 @@
 | [0242-valid-anagram](https://github.com/aditya0563/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aditya0563/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya0563/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aditya0563/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya0563/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditya0563/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -692,4 +695,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aditya0563/Leetcode/tree/master/0069-sqrtx) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya0563/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
