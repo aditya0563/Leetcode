@@ -71,6 +71,7 @@
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aditya0563/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya0563/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aditya0563/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/aditya0563/Leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya0563/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya0563/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/aditya0563/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -504,6 +505,7 @@
 | [0766-toeplitz-matrix](https://github.com/aditya0563/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/aditya0563/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/aditya0563/Leetcode/tree/master/0994-rotting-oranges) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/aditya0563/Leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Simulation
 |  |
 | ------- |
@@ -511,6 +513,7 @@
 | [0067-add-binary](https://github.com/aditya0563/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/aditya0563/Leetcode/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya0563/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/aditya0563/Leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya0563/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
