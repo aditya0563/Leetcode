@@ -514,7 +514,6 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya0563/Leetcode/tree/master/0054-spiral-matrix) |
-| [0067-add-binary](https://github.com/aditya0563/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/aditya0563/Leetcode/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya0563/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya0563/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
