@@ -67,6 +67,7 @@
 | [0994-rotting-oranges](https://github.com/aditya0563/Leetcode/tree/master/0994-rotting-oranges) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya0563/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya0563/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1512-number-of-good-pairs](https://github.com/aditya0563/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aditya0563/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/aditya0563/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya0563/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -117,6 +118,7 @@
 | [0763-partition-labels](https://github.com/aditya0563/Leetcode/tree/master/0763-partition-labels) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya0563/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya0563/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1512-number-of-good-pairs](https://github.com/aditya0563/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aditya0563/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aditya0563/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/aditya0563/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -218,6 +220,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/aditya0563/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aditya0563/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1512-number-of-good-pairs](https://github.com/aditya0563/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/aditya0563/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aditya0563/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/aditya0563/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -491,6 +494,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/aditya0563/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/aditya0563/Leetcode/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditya0563/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1512-number-of-good-pairs](https://github.com/aditya0563/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya0563/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/aditya0563/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aditya0563/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
