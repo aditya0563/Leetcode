@@ -56,6 +56,7 @@
 | [0322-coin-change](https://github.com/aditya0563/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/aditya0563/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/aditya0563/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/aditya0563/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya0563/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/aditya0563/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/aditya0563/Leetcode/tree/master/0739-daily-temperatures) |
