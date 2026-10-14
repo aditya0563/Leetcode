@@ -67,6 +67,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya0563/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aditya0563/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/aditya0563/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya0563/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya0563/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya0563/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditya0563/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
