@@ -71,6 +71,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya0563/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/aditya0563/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya0563/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/aditya0563/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya0563/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditya0563/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aditya0563/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -518,6 +519,7 @@
 | [0766-toeplitz-matrix](https://github.com/aditya0563/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/aditya0563/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/aditya0563/Leetcode/tree/master/0994-rotting-oranges) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/aditya0563/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/aditya0563/Leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Simulation
 |  |
