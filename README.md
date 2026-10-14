@@ -70,6 +70,7 @@
 | [1748-sum-of-unique-elements](https://github.com/aditya0563/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya0563/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/aditya0563/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aditya0563/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya0563/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/aditya0563/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya0563/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -118,6 +119,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aditya0563/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aditya0563/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/aditya0563/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aditya0563/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/aditya0563/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditya0563/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya0563/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -214,6 +216,7 @@
 | [0169-majority-element](https://github.com/aditya0563/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aditya0563/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1748-sum-of-unique-elements](https://github.com/aditya0563/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aditya0563/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/aditya0563/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Quickselect
 |  |
