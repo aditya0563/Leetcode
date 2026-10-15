@@ -171,6 +171,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya0563/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/aditya0563/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya0563/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3330-find-the-original-typed-string-i](https://github.com/aditya0563/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya0563/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
