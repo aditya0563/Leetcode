@@ -76,6 +76,7 @@
 | [2373-largest-local-values-in-a-matrix](https://github.com/aditya0563/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya0563/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditya0563/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya0563/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aditya0563/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya0563/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aditya0563/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -124,6 +125,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aditya0563/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/aditya0563/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditya0563/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya0563/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya0563/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya0563/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -698,6 +700,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya0563/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/aditya0563/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## String Matching
 |  |
@@ -736,4 +739,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/aditya0563/Leetcode/tree/master/1025-divisor-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya0563/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
