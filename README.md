@@ -67,6 +67,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya0563/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya0563/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/aditya0563/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/aditya0563/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aditya0563/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/aditya0563/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya0563/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -530,6 +531,7 @@
 | [0766-toeplitz-matrix](https://github.com/aditya0563/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/aditya0563/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/aditya0563/Leetcode/tree/master/0994-rotting-oranges) |
+| [1572-matrix-diagonal-sum](https://github.com/aditya0563/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/aditya0563/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/aditya0563/Leetcode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Simulation
