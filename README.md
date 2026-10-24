@@ -178,6 +178,7 @@
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aditya0563/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aditya0563/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya0563/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/aditya0563/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/aditya0563/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya0563/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3330-find-the-original-typed-string-i](https://github.com/aditya0563/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
@@ -517,6 +518,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditya0563/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/aditya0563/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya0563/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2409-count-days-spent-together](https://github.com/aditya0563/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/aditya0563/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aditya0563/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3524-find-x-value-of-array-i](https://github.com/aditya0563/Leetcode/tree/master/3524-find-x-value-of-array-i) |
